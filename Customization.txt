@@ -1,0 +1,10 @@
+The two sizes:
+
+Size 1:
+255
+
+Size 2:
+450
+
+The file type (ex: .png) (add the '.')
+.png
